@@ -1,0 +1,24 @@
+metadata_version: 1
+name: 'Text Mining Methodologies with R: An Application to Central Bank Texts'
+description: We review several existing text analysis methodologies and explain their
+  formal application processes using the open-source software R and relevant packages.
+  Several text mining applications to analyze central bank texts are presented.
+tags:
+- Text Mining
+- R Programming
+- Sentiment Analysis
+- Topic Modelling
+- Text Analysis
+- Natural Language Processing
+- Central Bank Communication
+- Bank of Israel
+authors:
+- name: Jonathan Benchimol
+  affiliations:
+  - name: Bank of Israel
+- name: Sophia Kazinnik
+  affiliations:
+  - name: Federal Reserve Bank of Richmond
+- name: Yossi Saadon
+  affiliations:
+  - name: Bank of Israel
