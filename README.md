@@ -1,4 +1,5 @@
-# Text Mining Methodologies with R: An Application to Central Bank Texts
+# Text Mining Methodologies with R
+# An Application to Central Bank Texts
 
 The paper is available at https://doi.org/10.1016/j.mlwa.2022.100286
 
