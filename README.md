@@ -2,11 +2,9 @@
 
 This repository contains the text data and R replication files of the paper:
 
-_Text Mining Methodologies with R: An Application to Central Bank Texts_
-
-Jonathan Benchimol, Sophia Kazinnik and Yossi Saadon.
-
-Machine Learning with Applications, Elsevier, Volume 8, Number 100286, June 2022. [10.1016/j.mlwa.2022.100286](https://doi.org/10.1016/j.mlwa.2022.100286)
+_Text Mining Methodologies with R: An Application to Central Bank Texts_  
+Jonathan Benchimol, Sophia Kazinnik and Yossi Saadon.  
+Machine Learning with Applications, Elsevier, Volume 8, Number 100286, June 2022. [10.1016/j.mlwa.2022.100286](https://doi.org/10.1016/j.mlwa.2022.100286)  
 
 For more central bank texts, visit the  [GitHub Central Bank Texts](https://github.com/JBenchimol/central-bank-texts)
 
